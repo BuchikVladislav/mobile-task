@@ -88,4 +88,4 @@ AI tools were used during development for implementation assistance, debugging, 
 
 ## Video
 
-[View the application demonstration video](https://drive.google.com/file/d/14NyFtcQAhjBOKUSvMr9fj8ZddKal7wtd/view?usp=sharing)
+[View the application demonstration video](https://drive.google.com/file/d/1CMKntFHWo4Xp3lwiTNlDgH4nxZ5RtIDl/view?usp=sharing)
