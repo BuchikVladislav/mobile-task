@@ -51,12 +51,6 @@ Build a release APK:
 npx expo run:android --variant release
 ```
 
-The generated APK can be found at:
-
-```text
-android/app/build/outputs/apk/release/app-release.apk
-```
-
 ## Mock Server
 
 The project uses `json-server` as a mock REST server for synchronization.
